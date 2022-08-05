@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "packages": [{
+        "path": "database",
+        "name": "database",
+        "engine": "postgresql",
+        "schema": "database/migrations",
+        "queries": "database/queries.sql"
+    }]
+}
